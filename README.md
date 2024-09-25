@@ -1,7 +1,7 @@
 # [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
-## Worked with/sources 
+## [Lab #3]
+## [Submission date: 09/24/24]
+## Used the textbook and lecture slides
 * example
 * example
 * example
